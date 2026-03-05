@@ -143,7 +143,21 @@ Graph: Global Media Usage
 </div>
 
 <div class="card">
-
+<section id="visual">
+    <h2>Visual Learning Style</h2>
+    <div class="box">
+        <h3>Media and Information Literacy</h3>
+        <p>✔ PowerPoint Presentation on Types of Media</p>
+        <p>✔ Charts showing Media Influence Statistics</p>
+        <p>✔ Diagrams explaining Communication Process</p>
+    </div>
+    <div class="box">
+        <h3>Contemporary Arts</h3>
+        <p>✔ Slide Presentation of Art Movements</p>
+        <p>✔ Visual Timeline of Philippine Contemporary Arts</p>
+        <p>✔ Infographics of Art Elements and Principles</p>
+    </div>
+</section>
 <h3>🎧 Auditory Learning</h3>
 
 <p>Podcasts and audio discussions about media literacy.</p>
@@ -167,7 +181,22 @@ Audio Lecture on Media Habits
 </div>
 
 <div class="card">
-
+<section id="auditory">
+    <h2>Auditory Learning Style</h2>
+    <div class="box">
+        <h3>Media and Information Literacy</h3>
+        <p>✔ Recorded lecture about Media Ethics</p>
+        <p>✔ Podcast discussion on Fake News Awareness</p>
+        <audio controls>
+            <source src="audio-sample.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+    <div class="box">
+        <h3>Contemporary Arts</h3>
+        <p>✔ Verbal explanation of Art Movements</p>
+        <p>✔ Group discussion on Meaning of Modern Art</p>
+    </div>
+</section>
 <h3>📖 Reading & Writing</h3>
 
 <ul>
@@ -195,7 +224,21 @@ Media Literacy Worksheets
 </div>
 
 <div class="card">
-
+<section id="reading">
+    <h2>Reading & Writing Learning Style</h2>
+    <div class="box">
+        <h3>Media and Information Literacy</h3>
+        <p>✔ Articles about Digital Literacy</p>
+        <p>✔ Essay Writing on Media Responsibility</p>
+        <p>✔ Research Paper on Information Disorder</p>
+    </div>
+    <div class="box">
+        <h3>Contemporary Arts</h3>
+        <p>✔ Reflection Paper on an Art Exhibit</p>
+        <p>✔ Written Analysis of Artwork</p>
+        <p>✔ Art Criticism Essay</p>
+    </div>
+</section>
 <h3>🤝 Kinesthetic Learning</h3>
 
 <p>Collaborative classroom activities.</p>
@@ -215,7 +258,21 @@ Media Literacy Worksheets
 </section>
 
 <section id="arts" class="section">
-
+<section id="kinesthetic">
+    <h2>Kinesthetic Learning Style</h2>
+    <div class="box">
+        <h3>Media and Information Literacy</h3>
+        <p>✔ Create your own News Report Video</p>
+        <p>✔ Role-playing Responsible Media User</p>
+        <p>✔ Hands-on Fact Checking Activity</p>
+    </div>
+    <div class="box">
+        <h3>Contemporary Arts</h3>
+        <p>✔ Create a Mixed Media Artwork</p>
+        <p>✔ Sculpture Making Activity</p>
+        <p>✔ Performance Art Presentation</p>
+        <button onclick="alert('Start your creative activity now!')">Start Activity</button>
+    </div>
 <h2>🎨 Contemporary Arts in the Philippines</h2>
 
 <div class="card">
